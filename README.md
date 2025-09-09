@@ -1,4 +1,4 @@
-# 👨‍💻 Abdul Rahiman | Full Stack Developer
+
 
 <div align="center">
   
@@ -97,44 +97,4 @@ An admin-focused inventory management system for tracking stock and generating c
 
 **Technologies:** MERN Stack, Chart.js  
 **[View Demo](#)**
-
-## GitHub Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khotabdulrahiman0&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khotabdulrahiman0&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khotabdulrahiman0&layout=compact&theme=tokyonight" alt="Top Languages" />
-</div>
-## 📬 Let's Connect 
-
-<div align="center">
-  <a href="https://iabdulrahiman.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="mailto:khotabdulrahiman07@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://linkedin.com/in/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=khotabdulrahiman0&color=6366F1&style=for-the-badge" alt="Profile Views" />
-  
-  <table>
-    <tr>
-      <td>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&random=false&width=600&height=60&lines=%22The+best+way+to+learn+is+by+building.%22" alt="Typing SVG" />
-      </td>
-    </tr>
-  </table>
-</div>
+>
